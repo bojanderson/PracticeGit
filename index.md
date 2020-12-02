@@ -1,6 +1,9 @@
 # Here are a list of our Chapters
 
-[Chapter 1](Chapter1.txt)
+- [Chapter 1](Chapter1.txt)
+- [Chapter 2](Chapter2.txt)
+- [Chapter 3](Chapter3.txt)
+- [Chapter 4](Chapter4.txt)
 
 # About our Writers
 

@@ -6,5 +6,3 @@
 
 - Bo Anderson - has a very short first name
 - Phil Byrnes - is retiring
-- Wallace
-- Stu

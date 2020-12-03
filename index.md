@@ -1,5 +1,7 @@
 # Here are a list of our Chapters
 
+Bo was here
+
 - [Chapter 1](Chapter1.txt)
 - [Chapter 2](Chapter2.txt)
 - [Chapter 3](Chapter3.txt)
